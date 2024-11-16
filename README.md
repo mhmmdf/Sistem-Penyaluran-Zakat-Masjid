@@ -2,8 +2,9 @@
 
 <h2 id="syarat">💾 Prasyarat yang Diperlukan</h2>
 
-Berikut adalah daftar layanan dan aplikasi yang wajib dan diperlukan selama anda menjalankan aplikasi learnify jika anda belum menginstall nya maka disarankan untuk menginstall nya terlebih dahulu
+Berikut ini daftar layanan dan aplikasi yang perlu kamu siapkan agar aplikasi bisa berjalan lancar. Kalau belum punya, sebaiknya diinstall dulu ya:
 
+-   GIT
 -   PHP VERSI 8 & Web Server [XAMPP, LAMPP, MAMP, Laragon *(Rekomendasi)]
 -   Web Browser
 -   Internet
