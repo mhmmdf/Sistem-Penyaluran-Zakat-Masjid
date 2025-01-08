@@ -20,6 +20,11 @@
             animation: spin 2s linear infinite;
         }
 
+        .sidebar-submenu {
+            display: none;
+            padding-left: 20px; /* Agar submenu terindetasi sedikit */
+        }
+
         @keyframes spin {
             0% {
                 transform: rotate(0deg);
