@@ -1,13 +1,11 @@
-## Issue yang Diperbaiki
-Fixes #<nomor_issue>  _(Ini akan menutup issue tersebut setelah PR di-merge)_
+## Deskripsi
+Jelaskan secara singkat masalah atau fitur yang diusulkan.
 
-## Screenshots (Opsional)
-Jika ada, sertakan screenshot yang mendukung perubahan.
+## Ekspektasi
+Apa yang Anda harapkan terjadi?
 
-## Checklist
-- [ ] Sudah memeriksa bahwa tidak ada bug baru yang muncul
-- [ ] Sudah menjalankan semua tes yang ada
-- [ ] Dokumentasi sudah diperbarui jika diperlukan
+## Hasil Saat Ini
+Apa yang terjadi sekarang?
 
-## Catatan Tambahan
-Informasi tambahan yang mungkin relevan.
+## Informasi Tambahan (Opsional)
+Tambahkan informasi tambahan jika diperlukan.
