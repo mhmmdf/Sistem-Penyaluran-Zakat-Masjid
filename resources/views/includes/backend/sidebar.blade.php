@@ -34,7 +34,7 @@
                 </li>
 
                 <li class="sidebar-list">
-                    <a class="sidebar-link sidebar-title">
+                    <a class="sidebar-link sidebar-title" href="#">
                         <i data-feather="user-plus"></i>
                         <span>Data Muzakki</span>
                     </a>
