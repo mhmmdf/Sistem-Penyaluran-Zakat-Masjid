@@ -39,3 +39,19 @@
 <script src="{{url("cuba/assets/js/script.js")}}"></script>
 <!-- login js-->
 <!-- Plugin used-->
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+    $(document).ready(function() {
+        $(".sidebar-title").on("click", function(e) {
+            var submenu = $(this).next(".sidebar-submenu");
+            if (submenu.is(":visible")) {
+                submenu.slideUp(); 
+            } else {
+                $(".sidebar-submenu").slideUp(); 
+                submenu.slideDown(); 
+            }
+            e.stopPropagation();
+        });
+    });
+</script>
